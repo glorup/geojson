@@ -42,8 +42,7 @@
                 "LAD13NM": "City of London",
                 "LAD13NMW": null
             },
-            "id": "TD01"
-        },
+            
         {
             "type": "Feature",
             "properties":
@@ -79,8 +78,7 @@
                 "LAD13CDO": "00AM",
                 "LAD13NM": "Hackney",
                 "LAD13NMW": null
-            },
-            "id": "TD02"
+            }
         }
     ]
 }
