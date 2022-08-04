@@ -37,10 +37,7 @@
             },
        "properties":
             {
-                "LAD13CD": "TD01",
-                "LAD13CDO": "00AA",
-                "LAD13NM": "City of London",
-                "LAD13NMW": null
+                "TD": "TD01",
             },
             
         {
@@ -74,11 +71,9 @@
             },
             "properties":
             {
-                "LAD13CD": "TD02",
-                "LAD13CDO": "00AM",
-                "LAD13NM": "Hackney",
-                "LAD13NMW": null
+                "TD": "TD02"
             }
+           }
         }
     ]
 }
