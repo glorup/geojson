@@ -29,7 +29,7 @@
       },
        "properties":
             {
-                "TD": "TD01"
+                "Area": "1"
             }
     },
     {
@@ -64,7 +64,7 @@
       },
             "properties":
             {
-                "TD": "TD02"
+                "Area": "2"
             }
     }
   ]
