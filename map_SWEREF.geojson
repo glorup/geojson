@@ -1,10 +1,5 @@
 {
   "type": "FeatureCollection",
-  object.crs =  {
-  "type": "name",
-  "properties": {
-    "name": "EPSG:3006"
-    }
   }
 
   "features": [
@@ -21,7 +16,8 @@
       },
        "properties":
             {
-                "Area": "1"
+                "Area": "1",
+              "name": "epsg:3857"
             }
     }
   ]
