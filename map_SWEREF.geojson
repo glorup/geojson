@@ -1,4 +1,10 @@
 {
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "epsg:3006"
+        }
+    }
   "type": "FeatureCollection",
   "features": [
     {
@@ -26,13 +32,7 @@
             ]
           ]
         ]
-      },
-    "crs": {
-        "type": "name",
-        "properties": {
-            "name": "epsg:3006"
-        }
-    }
+      }
     }
   ]
 }
