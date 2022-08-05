@@ -30,11 +30,7 @@
             "properties":
             {
                 "TD": "TD01"
-            },
-     object.crs =  {
-  "type": "name",
-  "properties": {
-    "name": "epsg:3857"
+            }
     }
   }
     }
