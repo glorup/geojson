@@ -29,9 +29,14 @@
       },
             "properties":
             {
-                "TD": "TD01",
-                "name": "epsg:3006"
-            }
+                "TD": "TD01"
+            },
+     object.crs =  {
+  "type": "name",
+  "properties": {
+    "name": "epsg:3857"
+    }
+  }
     }
   ]
 }
