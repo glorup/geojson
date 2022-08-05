@@ -14,9 +14,7 @@
       },
        "properties":
             {
-                "Area": "1",
-                "name": "crs:EPSG3006"
-
+                "Area": "1"
             }
     }
   ]
