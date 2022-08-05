@@ -1,5 +1,6 @@
 {
   "type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "crs:EPSG3006" } },
   "features": [
     {
       "type": "Feature",
