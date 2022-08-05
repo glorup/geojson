@@ -1,5 +1,12 @@
 {
   "type": "FeatureCollection",
+  object.crs =  {
+  "type": "name",
+  "properties": {
+    "name": "EPSG:3006"
+    }
+  }
+
   "features": [
     {
       "type": "Feature",
