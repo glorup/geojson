@@ -2,7 +2,7 @@
     "crs": {
         "type": "name",
         "properties": {
-            "name": "SWEREF99"
+            "name": "EPSG:3006"
         }
     },
   "type": "FeatureCollection",
