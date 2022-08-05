@@ -30,7 +30,7 @@
     "crs": {
         "type": "name",
         "properties": {
-            "name": "epsg:3857"
+            "name": "epsg:3006"
         }
     }
     }
