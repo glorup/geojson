@@ -29,7 +29,8 @@
       },
             "properties":
             {
-                "TD": "TD02"
+                "TD": "TD01",
+                "name": "epsg:3006"
             }
     }
   ]
