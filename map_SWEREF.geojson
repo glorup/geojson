@@ -35,7 +35,7 @@
       },
             "properties":
             {
-                "TD": "TD01"
+                "name": "TD01"
             }
     },
             
@@ -70,7 +70,7 @@
             },
             "properties":
             {
-                "TD": "TD02"
+                "name": "TD02"
             }
            
         }
