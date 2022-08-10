@@ -40,8 +40,6 @@
             
         {
             "type": "Feature",
-            "properties":
-            {},
             "geometry":
             {
                 "type": "Polygon",
